@@ -8,8 +8,8 @@ I read a few ideas online of different beginner projects that people usually wor
 # Development Environment
 To create a similar project you can use the following recources. Download the Java sdk to create Java projects as well as visual studio code to code the project in.
 
-https://www.oracle.com/java/technologies/sdk-downloads.html
-https://code.visualstudio.com/
+- https://www.oracle.com/java/technologies/sdk-downloads.html
+- https://code.visualstudio.com/
 
 # Useful Websites
 Here are some website that I used to help me learn java and make this program:
